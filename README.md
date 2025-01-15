@@ -4,11 +4,9 @@
 
 # 一个人的成长指南
 
+
 > *每个人都应该在自己的道路上承受自己的苦难，努力成为一个更好的人.*
 
-[![License](https://img.shields.io/github/license/PKUFlyingPig/cs-self-learning)](https://github.com/PKUFlyingPig/cs-self-learning/blob/master/LICENSE)
-[![Issues](https://img.shields.io/github/issues/PKUFlyingPig/cs-self-learning)](https://github.com/PKUFlyingPig/cs-self-learning/issues)
-[![Stars](https://img.shields.io/github/stars/PKUFlyingPig/cs-self-learning)](https://github.com/PKUFlyingPig/cs-self-learning)
 
 作为一个普普通通的平凡人，我的故事可能会让你略有感触。我出生于山东的一个小城市，像是普通的家庭一样，父母是最平凡的打工人，唯一有所不一样的是我的母亲，有着非常超前的眼光，对于我的成长，尽了所有一切的可能。收到母亲的鼓舞，从小我的成绩还算优异，
 
